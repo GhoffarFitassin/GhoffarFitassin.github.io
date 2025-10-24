@@ -1,6 +1,6 @@
 import { Github, Linkedin, Mail, ArrowDown } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import profilePhoto from "@/assets/profile-photo.jpg";
+import profilePhoto from "@/assets/profile-photo.jpeg";
 
 const Hero = () => {
   const scrollToAbout = () => {
@@ -68,7 +68,7 @@ const Hero = () => {
             {/* Social Links */}
             <div className="flex gap-4 justify-center md:justify-start">
               <a
-                href="hhttps://github.com/GhoffarFitassin"
+                href="https://github.com/GhoffarFitassin"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-3 rounded-full border-2 border-primary text-primary hover:bg-primary hover:text-primary-foreground transition-all duration-300"

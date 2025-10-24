@@ -19,14 +19,14 @@ const Contact = () => {
     {
       icon: Github,
       label: "GitHub",
-      value: "github.com/ghoffar",
-      link: "https://github.com/ghoffar",
+      value: "github.com/GhoffarFitassin",
+      link: "https://github.com/GhoffarFitassin",
     },
     {
       icon: Linkedin,
       label: "LinkedIn",
       value: "linkedin.com/in/ghoffar",
-      link: "https://linkedin.com/in/ghoffar",
+      link: "https://www.linkedin.com/in/ghoffar-abdul-ja-far-59828228a/",
     },
   ];
 
