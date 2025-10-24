@@ -30,12 +30,10 @@ const Hero = () => {
               Hi, I'm <span className="text-primary">Ghoffar</span>
             </h1>
             <h2 className="text-2xl md:text-3xl text-primary font-semibold mb-4">
-              Junior Back-End Developer
+              Laravel Junior Developer | Data & Computer Vision Enthusiast
             </h2>
             <p className="text-lg md:text-xl text-muted-foreground mb-6 max-w-2xl">
-              Mahasiswa Teknik Informatika Politeknik Negeri Malang yang fokus pada pengembangan 
-              back-end skalabel menggunakan <span className="text-primary font-semibold">Laravel</span>. 
-              Berpengalaman dalam kepemimpinan organisasi dan pengembangan sistem pendukung keputusan.
+              Mahasiswa Teknik Informatika Politeknik Negeri Malang yang fokus pada pengembangan back-end skalabel menggunakan Laravel, serta didukung keahlian PHP, Python, Java, dan manajemen database (MySQL/SQL Server). Berpengalaman dalam kepemimpinan organisasi dan pengembangan sistem pendukung keputusan.
             </p>
 
             {/* CTA Buttons */}
@@ -70,7 +68,7 @@ const Hero = () => {
             {/* Social Links */}
             <div className="flex gap-4 justify-center md:justify-start">
               <a
-                href="https://github.com/ghoffar"
+                href="hhttps://github.com/GhoffarFitassin"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-3 rounded-full border-2 border-primary text-primary hover:bg-primary hover:text-primary-foreground transition-all duration-300"
@@ -78,7 +76,7 @@ const Hero = () => {
                 <Github size={24} />
               </a>
               <a
-                href="https://linkedin.com/in/ghoffar"
+                href="https://www.linkedin.com/in/ghoffar-abdul-ja-far-59828228a/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-3 rounded-full border-2 border-primary text-primary hover:bg-primary hover:text-primary-foreground transition-all duration-300"
